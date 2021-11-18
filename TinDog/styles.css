@@ -144,3 +144,27 @@
       transform: rotate(0);
     }
   }
+
+  /* Call to action */
+
+  #cta {
+    background-color: #ff4c68;
+    color: whitesmoke;
+    text-align: center;
+    padding: 7% 15%;
+    padding-top: 0;
+    line-height: 1.5;
+  }
+
+  .cta-header {
+    font-size: 3.5rem;
+  }
+
+  #footer {
+    padding: 7% 15%;
+    text-align: center;
+  }
+
+  .social-icon {
+    margin: 20px 10px;
+  }
